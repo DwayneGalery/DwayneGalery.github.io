@@ -14,3 +14,12 @@ h1
 {
     font-family: coolfont;
 }
+@font-face
+{
+    font-family:coolfont2 ;
+    src: url(fonts/OpenSans.ttf);
+}
+h2
+{
+    font-family: coolfont2;
+}
