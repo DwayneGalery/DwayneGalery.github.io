@@ -3,4 +3,14 @@
    background-color: blue;
     background-image: url("images/ss1.png");
     background-repeat: repeat;
+    color: blueviolet;
+}
+@font-face
+{
+    font-family:coolfont ;
+    src: url(fonts/ER.ttf);
+}
+h1
+{
+    font-family: coolfont;
 }
