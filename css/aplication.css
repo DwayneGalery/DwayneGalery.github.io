@@ -31,8 +31,8 @@ p
 
 img
 {
-    border-radius: 200px;
-    width: 800px;
+    border-radius: 100px;
+    width: 400px;
 }
 img:hover 
 {
@@ -42,4 +42,8 @@ h1
 {
     text-align: center;
     font-size: xxx-large;
+}
+ul
+{
+font-size: x-large;
 }
