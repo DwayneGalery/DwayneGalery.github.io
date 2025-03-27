@@ -22,8 +22,24 @@ h1
 h2
 {
     font-family: coolfont2;
+    font-size: xxx-large;
 }
 p
 {
-    font-size: medium;
+    font-size: x-large;
+}
+
+img
+{
+    border-radius: 200px;
+    width: 800px;
+}
+img:hover 
+{
+    transform: scaleX(-1);
+}
+h1
+{
+    text-align: center;
+    font-size: xxx-large;
 }
