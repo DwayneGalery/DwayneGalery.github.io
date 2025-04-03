@@ -1,0 +1,67 @@
+:root 
+{
+   background-color: rgb(128, 128, 133);
+
+    color: rgb(12, 62, 170);
+}
+@font-face
+{
+    font-family:coolfont ;
+    src: url(fonts/ER.ttf);
+}
+h1
+{
+    font-family: coolfont;
+}
+@font-face
+{
+    font-family:coolfont2 ;
+    src: url(fonts/RS.ttf);
+}
+h2
+{
+    font-family: coolfont2;
+    font-size: xxx-large;
+    text-decoration-line: underline
+}
+p
+{
+    font-size: x-large;
+    font-weight: bolder;
+    border-style: dotted;
+  text-align: justify;
+  letter-spacing: 3px;
+
+    
+}
+
+img
+{
+    border-radius:100px;
+    width: 400px;
+}
+img:hover 
+{
+    transform: scaleX(-1);
+    float: left;
+}
+h1
+{
+    text-align: center;
+    font-size: xxx-large;
+    text-transform: uppercase;
+}
+ul
+{
+font-size: x-large;
+}
+
+table
+{
+    margin: auto;
+
+}
+a:link
+{
+    color: rgb(255, 0, 200);
+}
