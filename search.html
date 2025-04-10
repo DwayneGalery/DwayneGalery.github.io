@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+      <link rel="stylesheet" href="css/new.css">
       <title>Advanced Google search</title>
     </head>
     <body>
@@ -9,14 +10,17 @@
         <label for="searchterm"> Search term: </label>
        <textarea rows="3" type="text" name="q" id="searchterm" placeholder="Search here"></textarea>
        <br>
-        <input type="radio" name="as_epq" id="Basketball" value="Basketball">
+        <input type="checkbox" name="as_epq" id="Basketball" value="Basketball">
         <label for="homepage"> Basketball</label><br>
-        <input type="radio" name="as_epq" id="Football" value="Football">
+        <input type="checkbox" name="as_epq" id="Football" value="Football">
         <label for="homepage"> Football</label><br>
-        <input type="radio" name="as_epq" id="Baseball" value="Baseball">
+        <input type="checkbox" name="as_epq" id="Baseball" value="Baseball">
         <label for="homepage"> Baseball</label><br>
 
         <br>
+        <input type="radio" name="newwindow" value="1" id="checkwindow">
+                        <label for="checkwindow">Open Links in New Window</label>
+                        <br>
         <input type="submit" value="Testing"> 
 
         </form>
