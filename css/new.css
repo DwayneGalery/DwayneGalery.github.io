@@ -1,0 +1,24 @@
+:root
+{
+    
+    color: rgb(134, 136, 143);
+    background-color:gainsboro;
+    text-align: center;
+}
+
+.title
+{
+    color: blanchedalmond;
+}
+
+h1
+{
+    font-size: 48pt;
+    text-decoration: underline;
+    color: rgb(179, 185, 196);
+}
+
+table
+{
+    margin: auto;
+}
