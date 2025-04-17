@@ -10,4 +10,35 @@ table
 td , th
 {
     border: 2px black solid;
+    text-align: center;
 }
+h2
+{
+    border: 5px black solid;
+}
+li
+{
+    border: 2px rgb(0, 0, 0) solid;
+    
+}
+
+*
+{
+    color: var(--UNC-Blue);
+    text-align: center;
+}
+:root
+{
+  color: rgb(106, 106, 167);
+}
+
+section
+{
+    
+    margin: 18vw;
+    margin-top: 10px;
+    margin-bottom: 20px;}
+
+    td{
+        text-align: center;
+    }
